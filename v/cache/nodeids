@@ -1,0 +1,3 @@
+[
+  "study-buddy-ai/backend/tests/test_app.py::test_full_rag_workflow_and_user_isolation"
+]
